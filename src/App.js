@@ -17,7 +17,8 @@ function StoriesApp({stories,screen}){
     justifyContent: "center",
     alignItems: "strech",
     width:screen.width,
-    height:screen.height
+    height:screen.height,
+    margin:"5px"
   }
 
   const loadingStyle = { 
